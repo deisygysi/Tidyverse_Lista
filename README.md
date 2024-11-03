@@ -73,7 +73,11 @@ g. Qual a média de espaço ocupado por página de cada artista?
 3. Para esse exercício você deverá utilizar os banco de dados `refugiados_pais.csv.gz` e `refugiados.csv.gz`. Considere apenas observações completas.
 
 a. Qual a média de refugiados por país?
+
 b. Quantos refugiados houveram saíndo do Afeganistão em 1990? E a partir de 2000?
+
 c. Crie a matriz de migração intercontinental (de -> para) de refugiados do ano 2005.
+
 d. Qual o país que mais recebeu refugiados em 2005? E em 2010?
+
 e. Quantos refugiados os 3 países que mais receberam refugiados em 2010 receberam em 2005?
